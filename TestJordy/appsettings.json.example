@@ -4,5 +4,7 @@
       "Default": "Information",
       "Microsoft.AspNetCore": "Warning"
     }
-  }
+  },
+  "AllowedHosts": "*",
+  "APIKey": "15d86297-1a23-49eb-bcda-52edde2eef4d04"
 }
